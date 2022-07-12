@@ -6,4 +6,4 @@
 * Q4 follows first come first serve (FCFS)
 
 ## Result
-For each process, its remaining time of processes (RT), total waiting time (WT) and total turnaround time (TAT) are obtained..
+For each process, its remaining time (RT), total waiting time (WT) and total turnaround time (TAT) are obtained..
